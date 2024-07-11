@@ -1,0 +1,16 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+:root{
+  --orange: #F2994A;
+  --organge-light: #F2C94C;
+}
+
+
+html{
+  font-family: Ubuntu, sans-serif;
+  background: linear-gradient(to bottom,var(--orange),var(--organge-light));
+}
